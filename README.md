@@ -1,5 +1,3 @@
-# momentz-docs
-
 # Momentz – Architecture Notes
 
 ## Goal
